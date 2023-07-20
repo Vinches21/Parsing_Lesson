@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://ibb.co/5nvkNR7" width="726">
+      <img src="https://i.ibb.co/WFnJgqb/parser-2.jpg" alt="Parser Logo" width="726">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## About
 
-About Text Here
+Практика по парсингу данных.
 
 ## Documentation
 

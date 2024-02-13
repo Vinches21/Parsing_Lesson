@@ -5,14 +5,15 @@ url = 'http://httpbin.org/ip'
 
 with open('proxy.txt') as file:
     proxy_file = file.read().split('\n')
-    for _ in range(1000):
+    for i in proxy_file:
         try:
-            ip = choice(proxy_file).strip()
+            ip = i.strip()
             proxy = {
                 'http': f'http://{ip}',
                 'https': f'https://{ip}'
             }
-            response = requests.get(url=url, proxies=proxy)
+            response = requests.get(url=url, proxies=proxy, timeout=5)
             print(response.json(), 'Success connection')
-        except Exception as _ex:
+        except Exception as e:
+            print(f"Ошибка при использовании прокси {proxy}: {e}")
             continue

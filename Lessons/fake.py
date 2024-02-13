@@ -1,5 +1,4 @@
-# Импортируем необходимые библиотеки
-from fake_useragent import UserAgent
+from fake_useragent import  UserAgent
 import requests
 import time
 from random import randint

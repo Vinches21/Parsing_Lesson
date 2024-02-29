@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="style.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>image</title>
+</head>
+<body>
+		<div class="main">
+			<div class="img_box"><img src="img/ready/1.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/2.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/3.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/4.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/5.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/6.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/7.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/8.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/9.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/10.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/11.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/12.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/13.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/14.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/15.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/16.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/17.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/18.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/19.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/20.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/21.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/22.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/23.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/24.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/25.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/26.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/27.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/28.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/29.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/30.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/31.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/32.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/33.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/34.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/35.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/36.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/37.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/38.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/39.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/40.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/41.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/42.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/43.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/44.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/45.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/46.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/47.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/48.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/49.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/50.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/51.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/52.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/53.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/54.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/55.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/56.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/57.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/58.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/59.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/60.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/61.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/62.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/63.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/64.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/65.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/66.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/67.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/68.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/69.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/70.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/71.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/72.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/73.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/74.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/75.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/76.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/77.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/78.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/79.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/80.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/81.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/82.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/83.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/84.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/85.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/86.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/87.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/88.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/89.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/90.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/91.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/92.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/93.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/94.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/95.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/96.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/97.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/98.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/99.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/100.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/101.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/102.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/103.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/104.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/105.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/106.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/107.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/108.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/109.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/110.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/111.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/112.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/113.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/114.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/115.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/116.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/117.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/118.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/119.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/120.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/121.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/122.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/123.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/124.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/125.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/126.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/127.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/128.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/129.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/130.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/131.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/132.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/133.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/134.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/135.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/136.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/137.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/138.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/139.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/140.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/141.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/142.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/143.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/144.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/145.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/146.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/147.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/148.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/149.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/150.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/151.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/152.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/153.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/154.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/155.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/156.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/157.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/158.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/159.png" alt=""></div>
+			<div class="img_box"><img src="img/ready/160.png" alt=""></div>
+
+
+		</div>
+
+
+
+</body>
+</html>
